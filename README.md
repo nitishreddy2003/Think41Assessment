@@ -66,3 +66,5 @@ Content-Type: application/json
   "price_delta": 50
 }
 
+<img width="1076" height="807" alt="Screenshot 2025-07-23 215343" src="https://github.com/user-attachments/assets/f304ee6c-0483-4497-a0ca-2a054b16d75d" />
+
